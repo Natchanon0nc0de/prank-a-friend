@@ -1,3 +1,3 @@
 @echo off
-echo Message here.
-shutdown -s -f -t 60 -c "type a message you want to appear here."
+echo Bye
+shutdown -s -f -t 60 -c "You Stupid"
